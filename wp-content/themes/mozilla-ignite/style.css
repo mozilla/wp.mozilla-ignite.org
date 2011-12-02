@@ -455,7 +455,7 @@ table {
 
 body {
     background: #ebf7fe url(img/header_artwork.png) no-repeat center 10px;
-    border-top: 0.5em solid #fff; /* 16 * 0.5 = 8 */
+    border-top: 0.55em solid #fff; /* 16 * 0.5 = 8 */
     font-family: Arial, Helvetica, sans-serif;
     padding: 0;
 }
@@ -545,11 +545,9 @@ blockquote {
     color: #fff;
 }
 .masthead .brand {
-    margin-top: 0;
-    padding-top: 20px;
     color: #fff;
     font-size: 30px;
-    margin-bottom: 20px;
+    margin: 20px 0;
     font-weight: bold;
 }
 .masthead .brand a {
@@ -573,7 +571,6 @@ blockquote {
     overflow: hidden;
     margin: 0;
     padding-left: 0;
-    text-transform: lowercase;
 }
 .masthead ul li {
     float: left;
@@ -588,6 +585,7 @@ blockquote {
 }
 .masthead ul a {
     padding: 1em;
+    line-height: 1.2;
     display: block;
     font-size: 12px;
 }
@@ -680,6 +678,7 @@ blockquote {
 .external p {
     font-size: 14px;
     color: #454545;
+    margin: 1em 0;
 }
 .external ul {
     padding-left: 0;

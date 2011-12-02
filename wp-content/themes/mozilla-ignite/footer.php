@@ -30,8 +30,10 @@
         <div class="busta">
             <div class="col box tweet">
                 <h2>Follow and tweet</h2>
-                <p>What becomes possible at 1<abbr title="Gigabit per second">GBps</abbr>? What's the future of the web? Tweet your ideas with the tags <a href="https://twitter.com/#!/search?q=%23mozignite">#mozignite</a> and <a href="https://twitter.com/#!/search?q=%23usignite">#usignite</a>. (And we might just give you a treat)</p>
-            </div>
+                <p>What becomes possible at 1GBps? What's the future of the web and smart networks? Tweet your thoughts with <a href="https://twitter.com/#!/search?q=%23usignite">#usignite</a>.</p>
+                <a href="https://twitter.com/mozilla" class="twitter-follow-button" data-show-count="false">Follow @mozilla</a>
+                <script src="//platform.twitter.com/widgets.js" type="text/javascript"></script>
+           </div>
             <div class="col box learn">
                 <h2>Learn more</h2>
                 <ul>
