@@ -74,13 +74,10 @@
 </script>
 <header class="masthead">
     <div class="busta clearfix">
-        <h1 class="brand"><a href="/blog/"><img src="<?php echo get_stylesheet_directory_uri(); ?>/img/logo.png" width="200" height="35 alt="Mozilla Ignite" /></a></h1>            
+        <h1 class="brand"><a href="/"><img src="<?php echo get_stylesheet_directory_uri(); ?>/img/logo.png" width="200" height="35 alt="Mozilla Ignite" /></a></h1>            
         <a href="http://www.mozilla.org" class="tab">mozilla.org</a>
         <nav>
             <ul>
-                <li><a href="/about/">About</a></li>
-                <li><a href="/faq/"><abbr title="Frequently Asked Questions">FAQ</abbr>/Rules</a></li>
-                <li><a href="/participate/">Get Involved</a></li>
                 <li class="active"><a href="/blog/">Blog</a></li>                                                                 
             </ul>
         </nav>
