@@ -455,7 +455,6 @@ table {
 
 body {
     background: #ebf7fe url(img/header_artwork.png) no-repeat center 10px;
-    border-top: 0.55em solid #fff; /* 16 * 0.5 = 8 */
     font-family: Arial, Helvetica, sans-serif;
     padding: 0;
 }
