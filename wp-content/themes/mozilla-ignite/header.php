@@ -74,11 +74,11 @@
 </script>
 <header class="masthead">
     <div class="busta clearfix">
-        <h1 class="brand"><a href="/"><img src="<?php echo get_stylesheet_directory_uri(); ?>/img/logo.png" width="136" height="66" alt="Mozilla Ignite" /></a></h1>            
+        <h1 class="brand"><a href="https://mozillaignite.org/"><img src="<?php echo get_stylesheet_directory_uri(); ?>/img/logo.png" width="136" height="66" alt="Mozilla Ignite" /></a></h1>            
         <a href="http://www.mozilla.org" class="tab">mozilla.org</a>
         <nav>
             <ul>
-                <li class="active"><a href="/blog/">Blog</a></li>                                                                 
+                <li class="active"><a href="/">Blog</a></li>                                                                 
             </ul>
         </nav>
     </div>

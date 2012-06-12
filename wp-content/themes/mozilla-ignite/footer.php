@@ -31,21 +31,21 @@
             <div class="col box tweet">
                 <h2>Follow and tweet</h2>
                 <p>What becomes possible at 1GBps? What's the future of the web and smart networks? Tweet your thoughts with <a href="https://twitter.com/#!/search?q=%23usignite">#usignite</a>.</p>
-                <a href="https://twitter.com/mozilla" class="twitter-follow-button" data-show-count="false">Follow @mozilla</a>
+                <a href="https://twitter.com/mozillaignite" class="twitter-follow-button" data-show-count="false">Follow @mozilla</a>
                 <script src="//platform.twitter.com/widgets.js" type="text/javascript"></script>
            </div>
             <div class="col box learn">
                 <h2>Learn more</h2>
                 <ul>
-                    <li><a href="mailto:ben@mozillafoundation.org">Contact us</a></li>
+                    <li><a href="mailto:ignite@mozillafoundation.org">Contact us</a></li>
                     <li><a href="http://www.geni.net">Visit <abbr title="Global Environment for Network Innovations">GENI</abbr> website</a></li>
-                    <li><a href="http://www.nsf.gov/cise/usignite/">Visit <abbr title="United States">US</abbr> Ignite website</a></li>
+                    <li><a href="http://us-ignite.org">Visit <abbr title="United States">US</abbr> Ignite website</a></li>
                 </ul>
             </div>
             <div class="col box mozilla">
                 <h2>Connect with Mozilla</h2>
                 <ul>
-                    <li><a href="http://www.mozilla.org/about/mission.html">Learn about Mozilla's mission</a></li>
+                    <li><a href="http://http://www.mozilla.org/mission/">Learn about Mozilla's mission</a></li>
                     <li><a href="https://donate.mozilla.org/join/">Join Mozilla</a></li>
                     <li><a href="http://www.facebook.com/mozilla/">Like us on Facebook</a></li>                                                             
                 </ul>
