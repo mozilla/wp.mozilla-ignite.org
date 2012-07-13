@@ -540,7 +540,7 @@ blockquote {
 /* Masthead */
 .masthead {
     background: rgba(0, 0, 0, 0.8);
-    border-top: 2px solid #686868;
+    border-top: 2px solid #fff;
     color: #fff;
 }
 .masthead .brand {
@@ -548,6 +548,10 @@ blockquote {
     font-size: 30px;
     margin: 20px 0;
     font-weight: bold;
+    float: left;
+}
+.masthead nav {
+    clear: left;
 }
 .masthead .brand a {
     color: #fff !important;
@@ -734,7 +738,8 @@ blockquote {
 	}
 	.masthead nav {
     	float: right;
-    	margin-right: 130px;
+        clear: none;
+    	margin-right: 10px;
 	}
 	/**= Overrides from devices.css */
 	.busta {

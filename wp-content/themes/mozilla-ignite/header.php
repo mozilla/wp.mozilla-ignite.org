@@ -46,6 +46,7 @@
 
 	?></title>
 <link rel="profile" href="http://gmpg.org/xfn/11" />
+<link rel="stylesheet" href="//www.mozilla.org/tabzilla/media/css/tabzilla.css">
 <link rel="stylesheet" type="text/css" media="all" href="<?php bloginfo( 'stylesheet_url' ); ?>" />
 <link rel="pingback" href="<?php bloginfo( 'pingback_url' ); ?>" />
 <!--[if lt IE 9]>
@@ -75,9 +76,12 @@
 <header class="masthead">
     <div class="busta clearfix">
         <h1 class="brand"><a href="https://mozillaignite.org/"><img src="<?php echo get_stylesheet_directory_uri(); ?>/img/logo.png" width="136" height="66" alt="Mozilla Ignite" /></a></h1>            
-        <a href="http://www.mozilla.org" class="tab">mozilla.org</a>
+        <a href="http://www.mozilla.org" id="tabzilla" class="tab">from mozilla</a>
         <nav>
             <ul>
+            	<li><a href="https://mozillaignite.org/about/">About the challenge</a></li> 
+            	<li><a href="https://mozillaignite.org/ideas/list/">Ideas</a></li> 
+            	<li><a href="https://mozillaignite.org/judges/">Judges</a></li> 
                 <li class="active"><a href="/">Blog</a></li>                                                                 
             </ul>
         </nav>
