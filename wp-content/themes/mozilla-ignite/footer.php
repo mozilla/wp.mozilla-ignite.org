@@ -54,6 +54,6 @@
     </section>
     </aside>
 <?php wp_footer(); ?>
-<script src="//www.mozilla.org/tabzilla/media/js/tabzilla.js"></script>
+<script src="//mozorg.cdn.mozilla.net/tabzilla/tabzilla.js"></script>
 </body>
 </html>
