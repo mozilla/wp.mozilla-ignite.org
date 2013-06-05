@@ -46,7 +46,7 @@
 
 	?></title>
 <link rel="profile" href="http://gmpg.org/xfn/11" />
-<link rel="stylesheet" href="//www.mozilla.org/tabzilla/media/css/tabzilla.css">
+<link rel="stylesheet" href="//mozorg.cdn.mozilla.net/media/css/tabzilla-min.css">
 <link rel="stylesheet" type="text/css" media="all" href="<?php bloginfo( 'stylesheet_url' ); ?>" />
 <link rel="pingback" href="<?php bloginfo( 'pingback_url' ); ?>" />
 <!--[if lt IE 9]>
@@ -79,10 +79,12 @@
         <a href="http://www.mozilla.org" id="tabzilla" class="tab">from mozilla</a>
         <nav>
             <ul>
-            	<li><a href="https://mozillaignite.org/about/">About the challenge</a></li> 
-            	<li><a href="https://mozillaignite.org/ideas/list/">Ideas</a></li> 
-            	<li><a href="https://mozillaignite.org/judges/">Judges</a></li> 
-                <li class="active"><a href="/">Blog</a></li>                                                                 
+                <li><a href="https://mozillaignite.org/about/">About the challenge</a></li>
+                <li><a href="https://mozillaignite.org/ideas/list/">Ideas</a></li>
+                <li><a href="https://mozillaignite.org/apps/list/">Applications</a></li>
+                <li><a href="https://mozillaignite.org/judges/">Judges</a></li>
+                <li><a href="https://mozillaignite.org/resources/">Resources</a></li>
+                <li><a href="https://blog.mozillaignite.org/">Blog</a></li>
             </ul>
         </nav>
     </div>
